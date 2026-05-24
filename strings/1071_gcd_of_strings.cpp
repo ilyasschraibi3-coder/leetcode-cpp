@@ -57,8 +57,8 @@ public:
 int main() {
     Solution s;
 
-    string str1 = "ABABAB";
-    string str2 = "ABAB";
+    string str1 = "AAAAAB";
+    string str2 = "AAA";
 
     cout << s.gcdOfStrings(str1, str2);
 
